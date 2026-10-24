@@ -19,7 +19,7 @@ export default function ConcertsPage() {
           <div className="flex justify-center mb-10">
 
             <Image
-              src="/images/concerts/poster-garmoniya.jpg"
+              src="/images/concerts/poster-zabota.jpg"
               alt="Афиша выступления ансамбля народной песни «ВЕСНА»"
               width={900}
               height={1200}
