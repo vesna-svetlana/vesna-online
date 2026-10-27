@@ -19,7 +19,23 @@ export default function ConcertsPage() {
           <div className="flex justify-center mb-10">
 
             <Image
-              src="/images/concerts/poster-zabota.jpg"
+              src="/images/concerts/poster-zabota1.jpg"
+              alt="Афиша выступления ансамбля народной песни «ВЕСНА»"
+              width={900}
+              height={1200}
+              className="rounded-3xl shadow-xl w-full max-w-3xl object-contain"
+            />
+            
+            <Image
+              src="/images/concerts/poster-molokovo.jpg"
+              alt="Афиша выступления ансамбля народной песни «ВЕСНА»"
+              width={900}
+              height={1200}
+              className="rounded-3xl shadow-xl w-full max-w-3xl object-contain"
+            />
+
+            <Image
+              src="/images/concerts/poster-garmoniya2.jpg"
               alt="Афиша выступления ансамбля народной песни «ВЕСНА»"
               width={900}
               height={1200}
@@ -27,6 +43,7 @@ export default function ConcertsPage() {
             />
 
           </div>
+
 
           <h2 className="text-5xl font-serif text-center text-red-900 mb-10">
             🌸 Приглашаем на праздник русской песни!
